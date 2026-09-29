@@ -67,14 +67,6 @@ A licence removes all of these limits straight away - no restarting.
 5. Back in BasicConnect, press **Licence**, then **Install a licence file**, and
    choose the file from the email.
 
-| Licence | Price (AUD) |
-|---|---|
-| 1 month | $5 |
-| 3 months | $10 |
-| 6 months | $20 |
-| 12 months | $50 |
-| Forever | $150 |
-
 **Good to know**
 - A licence is for **one PC**. It can't be moved to another PC, so buy it on the
   PC you'll use.
@@ -113,8 +105,6 @@ do it. Only when you press **Buy online** does it pass a code that identifies th
 PC to the payment page, so your licence can be made for it.
 
 ---
-
-© 2026 Andrew Jones. All rights reserved.
 
 FANUC is a trademark of FANUC Corporation. BasicConnect is not made or supported
 by FANUC.
